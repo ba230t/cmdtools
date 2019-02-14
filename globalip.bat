@@ -1,0 +1,1 @@
+@curl globalip.me
